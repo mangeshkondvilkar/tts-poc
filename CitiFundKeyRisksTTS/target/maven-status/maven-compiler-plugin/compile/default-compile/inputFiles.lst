@@ -1,0 +1,13 @@
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/dto/CitiFundAsset.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/controller/CItiTestController.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/controller/CitiFundTTSController.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/util/TTSLanguage.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/service/IMyTestService.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/dao/IMyTestDao.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/dto/CitiTTS.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/dto/CitiFundListTTS.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/dto/CitiTTSPin.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/service/MyTestServiceImpl.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/dao/MyTestDaoImpl.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/util/URLConstants.java
+/home/mkondvilkar/citi_workspace/CitiFundKeyRisksTTS/src/main/java/com/privemanagers/citi/controller/MyRestController.java
